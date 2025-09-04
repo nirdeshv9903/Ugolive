@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "253559830746",
+    "firebase_url": "https://ugoliv-a0a97-default-rtdb.firebaseio.com",
+    "project_id": "ugoliv-a0a97",
+    "storage_bucket": "ugoliv-a0a97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253559830746:android:df57ede696446f9498cde3",
+        "android_client_info": {
+          "package_name": "com.ugoliv.appzeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGbn9-douwzRH-rCw6cGAUm4pmDVUNwCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253559830746:android:246e16093cb8555098cde3",
+        "android_client_info": {
+          "package_name": "com.ugolivDriver.appzeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGbn9-douwzRH-rCw6cGAUm4pmDVUNwCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
